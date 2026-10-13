@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+patchright==1.61.2
+humanization-playwright>=0.1.0
+requests==2.31.0
